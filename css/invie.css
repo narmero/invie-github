@@ -103,7 +103,7 @@ input:focus, textarea:focus {
 .background {
   background-color: #466173;
   background-image: url('../images/python2.jpg');
-  background-size: 1066px 1600px;
+  background-size: auto;
 }
 
 .button {
@@ -162,7 +162,7 @@ input:focus, textarea:focus {
 
   color: white;
   padding: 20px;
-  height: 500px;
+  height: 1066px;
 }
 
 .portada button {
