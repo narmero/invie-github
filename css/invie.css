@@ -62,6 +62,14 @@ body {
   margin: 0;
 }
 
+.transicion {
+  transition: .3s;
+}
+
+.transicion:hover {
+  transform: scale(1.5);
+}
+
 
 table {
   width: 100%;
